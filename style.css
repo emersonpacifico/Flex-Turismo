@@ -51,7 +51,7 @@ header{
 
 header .list-items{
 display: flex;
-max-width: 260px;
+max-width: 380px;
 width: 100%;
 justify-content: space-between;
 padding: 5px;
@@ -68,13 +68,20 @@ align-items: center;
     display: flex;
 }
 
+
 .list-items li a{
     color: white;
+    padding: 10px;
+    font-size: 1.2em;
 }
 
 .nav-items{
     display: flex;
     justify-content: space-between;
+}
+
+.nav-items a:hover{
+    color: red;
 }
 
 .nav-items ul{
