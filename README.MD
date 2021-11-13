@@ -1,5 +1,5 @@
 # DESKTOP
-Desenvolvi uma Pagina de Hotel,utilizei as Tecnologias de HTML,CSS,Javascript e JQuery.
+Desenvolvi uma Pagina de Turismo,Aplicando os Conhecimentos de Flexbox.As Tecnologias usadas foram HTML e CSS.
 
 
 
