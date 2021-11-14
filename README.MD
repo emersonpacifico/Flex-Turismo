@@ -4,5 +4,5 @@ Desenvolvi uma Pagina de Turismo,Aplicando os Conhecimentos de Flexbox.As Tecnol
 
 
 
-![enter image description here](https://github.com/emersonpacifico/Flex-Turismo/blob/master/images/giphy%20pagina%20turismo.gif?raw=true)
+![enter image description here](https://github.com/emersonpacifico/Flex-Turismo/blob/master/images/giphy.gif?raw=true)
 =======
